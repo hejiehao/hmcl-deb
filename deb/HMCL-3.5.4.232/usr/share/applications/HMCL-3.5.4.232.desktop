@@ -1,9 +1,0 @@
-[Desktop Entry]
-Categories=Game;
-Name=HMCL-3.5.4.232
-Comment=Hello Minecraft! Launcher
-Type=Application
-Exec="/usr/lib/jvm/java-17-openjdk-amd64/bin/java" -jar "/usr/local/hmcl/HMCL-3.5.4.232.jar"
-Icon=/usr/share/icons/hmcl/HMCL-3.5.4.232.ico
-StartupNotify=true
-Terminal=false
