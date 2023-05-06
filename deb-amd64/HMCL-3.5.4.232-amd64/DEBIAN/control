@@ -1,0 +1,8 @@
+Package: hmcl-beta
+Version: 3.5.4.232
+License: GPL-3.0
+Architecture: amd64
+Maintainer: huanghongxun
+Depends: openjdk-17-jre, openjdk-8-jre
+Section: hmcl
+Description: A Minecraft Launcher: Hello Minecraft! Launcher. This will install java8 and java17
