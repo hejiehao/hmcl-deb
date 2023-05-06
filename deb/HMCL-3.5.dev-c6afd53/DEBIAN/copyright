@@ -1,0 +1,7 @@
+Format: http://dep.debian.net/deps/deb5
+UpStream-Name: huanghongxun
+Upstream-Contact: 
+Source: https://github.com/huanghongxun/HMCL
+
+Files: *
+Copyright: Copyright huangyuhui
